@@ -1,2 +1,3 @@
 # A-Wine-Quality-Pipeline
-A machine learning project for predicting wine quality using physicochemical features.
+
+A machine learning project for predicting wine quality using physicochemical features. This repository includes a complete end-to-end pipeline—from data preprocessing and model training to deployment via a Flask API. This project builds a classification model to predict the quality of red wine based on various chemical properties such as alcohol content, acidity, and sugar levels. It showcases a full machine learning lifecycle: data cleaning, feature engineering, hyperparameter tuning, performance visualization, and model deployment using Flask. The API allows for easy integration and real-time predictions
